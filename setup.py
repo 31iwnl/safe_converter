@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='safe_converter',
-    version='0.1.0',
+    version='0.2.1',
     author='31',
     author_email='xhispeco2018@gmail.com',
     description='Универсальный конвертор',

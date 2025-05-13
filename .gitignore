@@ -8,3 +8,6 @@ build/
 .env
 .vscode/
 .idea/
+safe_converter.egg-info/
+setup.py
+LICENSE
